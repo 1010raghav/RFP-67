@@ -7,7 +7,7 @@ namespace Day3_emp
         static void Main(string[] args)
         {
             UC1_EmpAttendance.getAttendance();
-
+            LineCompare.Strinngs();
         }
     }
 }
